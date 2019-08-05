@@ -1,5 +1,5 @@
 public class sample {
-  int x = 5;
+  int x = 20;
 
   public static void main(String[] args) {
     sample myObj = new sample();
